@@ -1,0 +1,24 @@
+{
+  "name": "login_register_mysql",
+  "version": "1.0.0",
+  "description": "Login registration system in mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushbarve98/Login_register_MySql.git"
+  },
+  "author": "Piyush Barve",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+     "mysql": "2.18.1"
+  
+  },
+  "bugs": {
+    "url": "https://github.com/piyushbarve98/Login_register_MySql/issues"
+  },
+  "homepage": "https://github.com/piyushbarve98/Login_register_MySql#readme"
+}
